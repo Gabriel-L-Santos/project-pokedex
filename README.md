@@ -1,2 +1,3 @@
 # project-pokedex
  
+texto em andamento...
