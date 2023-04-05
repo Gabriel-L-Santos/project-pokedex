@@ -15,7 +15,7 @@ body {
 }
 
 .logo{
-    max-width: 550px;
+    max-width: 450px;
     display: flex;
     justify-content: center;
     margin: auto;
@@ -31,7 +31,7 @@ main {
 
 .pokedex {
     width: 100%;
-    max-width: 425px;
+    max-width: 360px;
 }
 
 .pokemon__image {
@@ -39,7 +39,7 @@ main {
     bottom: 55%;
     left: 50%;
     transform: translate(-63%, 20%);
-    height: 18%;
+    height: 15%;
 }
 
 .pokemon__data {
@@ -48,7 +48,7 @@ main {
     color: #aaa;
     top: 54.5%;
     right: 27%;
-    font-size: clamp(8px, 5vw, 25px);
+    font-size: clamp(8px, 5vw, 21px);
 }
 
 .pokemon__name {
