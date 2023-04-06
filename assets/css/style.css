@@ -9,7 +9,7 @@
 
 body {
     text-align: center;
-    background: #0084ff url("background.png") no-repeat fixed;
+    background: #ffffff url("background.png") no-repeat fixed;
     background-size: cover;
     min-height: 100vh;
 }
